@@ -15,11 +15,11 @@
 
 ### Screenshot
 
-![](/images/Screenshot 2022-04-11 170024.png)
+![](![Screenshot 2022-04-11 170024](https://user-images.githubusercontent.com/99771586/162822098-62aebaea-8013-49e9-aba4-d3fc8fcdcdaf.png)
 
 ### Links
 
-- Live Site URL: [Link](https://glrmfranco.github.io/simple_timer/)
+- Live Site URL: [Link]()
 
 ## My process
 
